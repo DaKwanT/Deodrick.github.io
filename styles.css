@@ -92,9 +92,18 @@ a:hover{
 .post-content4,.post-content5,.post-content6{
   padding-right: 10px;
 }
+.post-content7,.post-content8,.post-content9,
+.post-content10,.post-content11,.post-content12{
+  padding-right: 10px;
+}
+
 .content-nav{
+
+  max-width: 430px;
+  margin: 0 auto;
+
   text-align: center;
-  
+
 }
 span{
   vertical-align: middle;
